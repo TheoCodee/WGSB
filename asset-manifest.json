@@ -1,15 +1,23 @@
 {
   "files": {
-    "main.css": "/WGSB/static/css/main.6b8238e7.css",
-    "main.js": "/WGSB/static/js/main.c71b0749.js",
+    "main.css": "/WGSB/static/css/main.52f1887d.css",
+    "main.js": "/WGSB/static/js/main.32c97fc6.js",
+    "static/media/cruser.png": "/WGSB/static/media/cruser.ada9362201c1277a4286.png",
+    "static/media/street.png": "/WGSB/static/media/street.02dfb017f6196b11e9a4.png",
+    "static/media/roues.jpg": "/WGSB/static/media/roues.a32a6654aebdc826d8f2.jpg",
+    "static/media/teeshirt.jpg": "/WGSB/static/media/teeshirt.5112e92e225453c85afc.jpg",
+    "static/media/bonnet.jpg": "/WGSB/static/media/bonnet.f5b4bbad760def475353.jpg",
     "static/media/longboard.jpg": "/WGSB/static/media/longboard.71e9ce71cadbdb6b3a70.jpg",
+    "static/media/plateau.jpg": "/WGSB/static/media/plateau.8bffceefa14d2517e4c8.jpg",
+    "static/media/penny.jpg": "/WGSB/static/media/penny.b77489f2d69fe266ebbc.jpg",
+    "static/media/carver.jpg": "/WGSB/static/media/carver.1e05787213eded6cb514.jpg",
     "static/media/logo-WG.png": "/WGSB/static/media/logo-WG.daae3bad058153340292.png",
     "index.html": "/WGSB/index.html",
-    "main.6b8238e7.css.map": "/WGSB/static/css/main.6b8238e7.css.map",
-    "main.c71b0749.js.map": "/WGSB/static/js/main.c71b0749.js.map"
+    "main.52f1887d.css.map": "/WGSB/static/css/main.52f1887d.css.map",
+    "main.32c97fc6.js.map": "/WGSB/static/js/main.32c97fc6.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b8238e7.css",
-    "static/js/main.c71b0749.js"
+    "static/css/main.52f1887d.css",
+    "static/js/main.32c97fc6.js"
   ]
 }
