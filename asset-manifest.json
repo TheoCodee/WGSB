@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WGSB/static/css/main.6b8238e7.css",
+    "main.js": "/WGSB/static/js/main.c71b0749.js",
+    "static/media/longboard.jpg": "/WGSB/static/media/longboard.71e9ce71cadbdb6b3a70.jpg",
+    "static/media/logo-WG.png": "/WGSB/static/media/logo-WG.daae3bad058153340292.png",
+    "index.html": "/WGSB/index.html",
+    "main.6b8238e7.css.map": "/WGSB/static/css/main.6b8238e7.css.map",
+    "main.c71b0749.js.map": "/WGSB/static/js/main.c71b0749.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b8238e7.css",
+    "static/js/main.c71b0749.js"
+  ]
+}
