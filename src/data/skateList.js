@@ -1,12 +1,12 @@
 import longboard from '../assets/longboard.jpg'
-import cruser from '../assets/longboard.jpg'
-import street from '../assets/longboard.jpg'
-import penny from '../assets/longboard.jpg'
-import carver from '../assets/longboard.jpg'
-import roues from '../assets/longboard.jpg'
-import plateau from '../assets/longboard.jpg'
-import teeshirt from '../assets/longboard.jpg'
-import bonnet from '../assets/longboard.jpg'
+import cruser from '../assets/cruser.png'
+import street from '../assets/street.png'
+import penny from '../assets/penny.jpg'
+import carver from '../assets/carver.jpg'
+import roues from '../assets/roues.jpg'
+import plateau from '../assets/plateau.jpg'
+import teeshirt from '../assets/teeshirt.jpg'
+import bonnet from '../assets/bonnet.jpg'
 
 
 
