@@ -1,0 +1,49 @@
+.wg-skate-item {
+    margin: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-transform: capitalize;
+    position: relative;
+    border: 10px inset #a52a2a;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.wg-skate-item-price {
+    position: absolute;
+    border-radius: 20px 20px 20px 0px;
+    background-color: brown;
+    color: aliceblue;
+    padding: 15px;
+    right: 0;
+    top: 0;
+    font-weight: 500;
+}
+
+.wg-skate-item-cover {
+    height: 250px;
+    width: 250px;
+    border-radius: 20px;
+    object-fit: cover;
+}
+
+.wg-skate-item-sale {
+	position: absolute;
+	right: 0px;
+	top: 60px;
+	font-weight: 500;
+	color: white;
+	padding: 5px 10px;
+	background-color: brown;
+}
+
+.wg-skate-item-fast {
+	position: absolute;
+	right: 0px;
+	top: 90px;
+	font-weight: 500;
+	color: white;
+	padding: 5px 10px;
+	background-color: brown;
+}
